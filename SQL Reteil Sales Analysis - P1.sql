@@ -1,4 +1,4 @@
---SQL Reteil Sales Analysis - P1
+--**SQL Reteil Sales Analysis - P1**
 create database sql_project_p2;
 
 DROP TABLE IF EXISTS retail_sales;
